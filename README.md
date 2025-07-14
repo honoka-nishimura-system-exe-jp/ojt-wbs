@@ -1,4 +1,4 @@
-# self-learning-wbs
+# ojt-wbs
 OJT用のWBS管理
 
 ## 1. 計画
